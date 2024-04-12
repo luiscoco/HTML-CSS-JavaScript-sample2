@@ -1,4 +1,4 @@
-# Introduction to HTML, CSS and JavaScript
+# Adding new feature in the webpage
 
 Let's enhance your webpage with some more advanced features that could help you learn new skills in web developmen
 
@@ -100,4 +100,16 @@ toggleButton.addEventListener('click', () => {
 ```
 
 This setup gives you a starting point for each feature. You can expand and customize them further based on your learning goals and preferences.
+
+## Webpage with new feature
+
+![image](https://github.com/luiscoco/HTML-CSS-JavaScript-sample2/assets/32194879/5289e180-f606-400a-9013-8f618e0e08e1)
+
+![image](https://github.com/luiscoco/HTML-CSS-JavaScript-sample2/assets/32194879/319ff5fa-7c84-4ab7-8c4e-0c8458cef360)
+
+![image](https://github.com/luiscoco/HTML-CSS-JavaScript-sample2/assets/32194879/b8ee6483-5154-48a8-99e6-3f61e1eb4a06)
+
+![image](https://github.com/luiscoco/HTML-CSS-JavaScript-sample2/assets/32194879/2e33f68e-de01-4fdc-bf0c-e111380504cd)
+
+
 
