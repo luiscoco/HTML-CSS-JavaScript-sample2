@@ -1,4 +1,4 @@
-# Adding new feature in the webpage
+# Adding new features in the webpage (Slider for Image Gallery, Fetching Data with AJAX, Dark Mode Toggle)
 
 Let's enhance your webpage with some more advanced features that could help you learn new skills in web developmen
 
